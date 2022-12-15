@@ -2,6 +2,7 @@
 import StyledCssClasses from "./components/StyledCssClasses"
 import StyledCssModules from "./components/StyledCssModules/StyledCssModules"
 import StyledInnline from "./components/StyledInnline"
+import StyledTailwind from "./components/StyledTailwind"
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <StyledInnline />
         <StyledCssClasses />
         <StyledCssModules />
+        <StyledTailwind />
       </main>
     </>
   )

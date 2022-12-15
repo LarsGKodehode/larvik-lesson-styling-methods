@@ -9,6 +9,9 @@ import './styles/palette.css'
 import './styles/test.css'
 import './styles/global.css'
 
+// 3rd CSS
+import './styles/tailwind.css'
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
