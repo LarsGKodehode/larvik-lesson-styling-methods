@@ -1,0 +1,9 @@
+:root {
+  --color-primary-400: rgb(112, 112, 255);
+  --color-primary-500: blue;
+  --color-primary-600: rgb(0, 0, 101);
+
+  --color-secondary-500: brown;
+
+  --color-tertiary-500: yellow;
+}
